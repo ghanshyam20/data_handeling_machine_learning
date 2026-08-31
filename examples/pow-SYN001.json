@@ -1,0 +1,27 @@
+{
+  "attempt_id": "SYN001_20300212-101500-000000",
+  "course": "COURSE-DEMO",
+  "module": "1",
+  "submodule": "1",
+  "task_type": "learning_diary",
+  "target": "SYN001",
+  "student_id": "SYN001",
+  "artifact_path": "tasksubmissions/1/1/learning_diary/SYN001_20300212-101500.txt",
+  "captured_at": "2030-02-12T10:15:00Z",
+  "metrics": {
+    "artifact_extension": ".txt",
+    "file_size_bytes": 131,
+    "artifact_sha256": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "changed_from_previous": true,
+    "keystrokes": 146,
+    "paste_count": 0,
+    "active_seconds": 84,
+    "edit_duration_ms": 102000,
+    "length_snapshots": [
+      {"t_ms": 1000, "length": 18},
+      {"t_ms": 2000, "length": 36},
+      {"t_ms": 3000, "length": 51}
+    ],
+    "final_text_length": 131
+  }
+}

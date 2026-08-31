@@ -1,0 +1,5 @@
+{"timestamp":"2030-02-12T09:00:00Z","student_id":"SYN001","action":"login","course":null,"module":null,"submodule":null,"extra":{}}
+{"timestamp":"2030-02-12T09:10:00Z","student_id":"SYN001","action":"start_quiz","course":"COURSE-DEMO","module":"1","submodule":"1","extra":{}}
+{"student_id":"SYN001","quiz_title":"Synthetic check-in","attempt":1,"score":1,"question_texts":["Which invented option is marked correct?"],"answers":["B"],"per_question_scores":[1],"timestamp":"2030-02-12T09:12:00Z"}
+{"timestamp":"2030-02-12T09:12:00Z","student_id":"SYN001","action":"submit_quiz","course":"COURSE-DEMO","module":"1","submodule":"1","extra":{"score":1}}
+{"timestamp":"2030-02-12T09:12:00Z","questions":[{"question":"Which invented option is marked correct?","answer":"B"}],"answers":["B"],"score":1,"attempt":1}

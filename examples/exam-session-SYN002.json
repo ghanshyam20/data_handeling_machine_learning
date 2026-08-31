@@ -1,0 +1,26 @@
+{
+  "student_id": "SYN002",
+  "questions": [
+    {
+      "question": "What is the result in this fictional item?",
+      "options": ["2", "4", "6"],
+      "answer": "4"
+    }
+  ],
+  "presented_questions": [
+    {
+      "question": "What is the result in this fictional item?",
+      "options": ["2", "4", "6"],
+      "answer": "4"
+    }
+  ],
+  "started_at": 1897210800,
+  "duration_minutes": 30,
+  "submitted": true,
+  "answers": {"0": "4"},
+  "question_scores": [1],
+  "percent": 100.0,
+  "autosubmitted": false,
+  "late_by_seconds": 0,
+  "submitted_at": "2030-02-13T09:05:00Z"
+}

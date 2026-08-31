@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "task": {
+    "course": "COURSE-DEMO",
+    "module": "1",
+    "submodule": "1",
+    "task_type": "learning_diary"
+  },
+  "subject": {"id": "SYN001"},
+  "submission": {
+    "ref": "tasksubmissions/1/1/learning_diary/SYN001_20300212-101500.txt",
+    "timestamp": "2030-02-12T10:15:00Z",
+    "attempt_id": "00000000-0000-4000-8000-000000000001",
+    "sha256": null
+  },
+  "computed_at_utc": "2030-02-12T10:15:04Z",
+  "model": null,
+  "score": {"points_raw": 8.0, "points_final": 8.0, "status": "graded"},
+  "metrics": {
+    "word_count": 22,
+    "sentence_count": 3,
+    "paragraph_count": 1
+  },
+  "messages": {
+    "reason": "synthetic_example",
+    "info": "Artificial grading message."
+  },
+  "provenance": {
+    "extractor": "synthetic-text-example",
+    "extension": ".txt",
+    "bytes_read": 131,
+    "char_count": 131,
+    "paragraph_count": 1
+  },
+  "structure_check": {
+    "status": "PASS",
+    "reason": "Synthetic example satisfies the invented structure rule."
+  }
+}

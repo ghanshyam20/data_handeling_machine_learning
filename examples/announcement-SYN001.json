@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "id": "ann_20300211T120000Z_00000000",
+  "course": "COURSE-DEMO",
+  "student_id": "SYN001",
+  "type": "info",
+  "severity": "low",
+  "source": "teacher_manual",
+  "intent": "general_announcement",
+  "subject": "Synthetic reminder",
+  "body": "This artificial message reminds the fictional learner about a fictional task.",
+  "context": {"task_key": "1/1/learning_diary"},
+  "created_at": "2030-02-11T12:00:00Z",
+  "created_by": "synthetic-teacher",
+  "expires_at": "2030-03-01T00:00:00Z",
+  "ack_required": true,
+  "ack_at": "2030-02-12T09:01:00Z",
+  "read": true,
+  "read_at": "2030-02-12T09:00:30Z",
+  "archived": false,
+  "archived_at": null
+}
